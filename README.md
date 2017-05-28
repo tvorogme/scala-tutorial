@@ -13,7 +13,7 @@
 [tvorogme@localhost scala]$ bash <(curl https://raw.githubusercontent.com/alexarchambault/jupyter-scala/master/jupyter-scala)
 ```
 # Оглавление
-1. [Основы языка](https://github.com/tvorogme/scala/blob/master/basics.ipynb).
+1. [Основы синтаксиса](https://github.com/tvorogme/scala/blob/master/basics.ipynb).
 
 
 
