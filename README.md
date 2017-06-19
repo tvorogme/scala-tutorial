@@ -15,5 +15,6 @@
 # Оглавление
 1. [Основы синтаксиса](https://github.com/tvorogme/scala/blob/master/basics.ipynb).
 
-
+# Мини-проекты
+1. [Scala Bank](https://github.com/tvorogme/scala/blob/master/little-projects/Bank.ipynb)
 
