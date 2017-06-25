@@ -7,7 +7,7 @@
 
 1. [anaconda3](https://www.continuum.io/downloads)
 
-2.```bash <(curl https://raw.githubusercontent.com/alexarchambault/jupyter-scala/master/jupyter-scala)```
+2. ```bash <(curl https://raw.githubusercontent.com/alexarchambault/jupyter-scala/master/jupyter-scala)```
 
 ### Оглавление
 1. [Основы синтаксиса](https://github.com/tvorogme/scala/blob/master/basics.ipynb).
