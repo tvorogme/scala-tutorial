@@ -13,8 +13,8 @@
 2. ```bash <(curl https://raw.githubusercontent.com/alexarchambault/jupyter-scala/master/jupyter-scala)```
 
 ### Оглавление
-1. [Основы синтаксиса](https://github.com/tvorogme/scala/blob/master/basics.ipynb).
-2. [Монады, функторы, etc.](https://github.com/tvorogme/scala/blob/master/monads.ipynb) *в процессе написания*
+1. [Основы синтаксиса](https://github.com/tvorogme/scala/blob/master/day1/basics.ipynb).
+2. [Монады, функторы, etc.](https://github.com/tvorogme/scala/blob/master/day2/monads.ipynb) *в процессе написания*
 
 ### Мини-проекты
 1. [Scala Bank](https://github.com/tvorogme/scala/blob/master/little-projects/Bank.ipynb)
