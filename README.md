@@ -15,6 +15,7 @@
 ### Оглавление
 1. [Основы синтаксиса](https://github.com/tvorogme/scala/blob/master/day1/basics.ipynb).
 2. [Монады, функторы, etc.](https://github.com/tvorogme/scala/blob/master/day2/monads.ipynb)
+3. [Akka](https://github.com/tvorogme/scala-tutorial/blob/master/day3/akka.ipynb) *in progress*
 
 ### Мини-проекты
 1. [Scala Bank](https://github.com/tvorogme/scala/blob/master/little-projects/Bank.ipynb)
